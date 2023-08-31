@@ -6,7 +6,8 @@ This device has three main components: a fluid (oil) that transmits the pressure
 
 To carry out tests or calibrate a pressure gauge with the dead weight tester, accurately calibrated weight masses (Force) are loaded on the piston (Area), which rises freely within its cylinder. These weights balance the upward force created by the pressure within the system:
 
-
+$$Pressure = \frac{F}{A}$$ 
+$$F = M g$$
 
 where,
 
@@ -24,27 +25,36 @@ A known (calibration) pressure will be produced in this experiment by applying w
 
 Below is a diagram depicting how to set up a dead weight tester for calibrating a pressure gauge on a level, stable workbench or similar surface.
 
-
+<div align="center">				
+<img alt="" src="./images/plantscth.jpg" class="img-fluid">
 
 Fig.1:- Dead weight Tester
+</div>
+
+
 
 The gravity error due to elevation, z (in meters), and latitude j (in degrees) can be corrected by the dimensionless correction factor as:
 
+$$e_{gravity} = - ( 2.637 \times 10^{-3} \ cos (2 \phi) + 2.9 \times 10^{-8} \ z + 5 \times 10^{-5} )$$
 
+and the air buoyancy error, e<sub>buoyancy</sub>, by
 
-and the air buoyancy error,  by
+$$e_{bouyancy} = - \frac{\rho_{air}}{\rho_{masses}}$$
 
+Then the indicated pressure of the gauge, &rho;<sub>i</sub> , can be corrected as:
 
+$$\rho = \rho_i (1 + e_{gravity} + e_{buoyancy})$$
 
-Then the indicated pressure of the gauge,  , can be corrected as:
+The accuracy of the dead-weight tester is compromised by a number of factors, including the following: 
 
+(1) friction between the cylinder and the piston.
 
+(2) uncertainty in the area of the piston.
 
-The accuracy of the dead-weight tester is compromised by a number of factors, including the following: (1) friction between the cylinder and the piston; (2) uncertainty in the area of the piston; (3) error caused by buoyancy; and (4) error caused by gravity.
+(3) error caused by buoyancy.
 
+(4) error caused by gravity.
 				
-<div align="center">				
-<img alt="" src="./images/t3.png" style="width:553px;height:310px;">
-</div>
+
 						
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>								
