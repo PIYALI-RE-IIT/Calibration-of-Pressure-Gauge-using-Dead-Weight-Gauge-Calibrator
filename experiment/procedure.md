@@ -8,23 +8,35 @@
 
 **Steps to perform the simuation**
 
+The experiment should be done in two parts. 
 
-1. Place the pressure gauge in the appropriate position for it to remain fixed.
+i) Loading, ii) Unloading</li>
 
-2. To calibrate the dead weight gauge, fill the barrel of the calibrator with oil.
+To calibrate the dead weight gauge, the barrel of the calibrator is filled with oil and the piston's weight as well as the area of its cross section are measured. Hence they are constant and known quantities. The Pressure Gauge can measure 0-1000 KPa pressure.
 
-3. Take a reading of the piston's weight as well as the area of its cross section.
+<b style = "color:blue">Loading</b>
 
-4. By turning the hand wheel, you can apply pressure to the oil until it reaches the desired level, which will be indicated when the plunger reaches the mark that serves as a reference.
+1. At first drag 0.5 kg mass from the Mass Block and drop it to blue box on piston. The mass chosen, will be shown in 'Mass (kg)' input box. The piston will move downwards in the chamber due to pressure.
 
-5. Put a weight that you are familiar with on the plunger's platform.
+2. Click on the wheel to rotate it clockwise and to apply pressure in the filled oil inside. The  pressure gauge will show the applied pressure through wheel. When the pressure applied through the wheel will be equal to the pressure caused by the chosen mass, the wheel will stop rotating and piston will move to its previous position (i.e upwards).
 
-6. Take note of the reading on the pressure gauge, then conduct the experiment again using a plunger that has a different weight attached to it.
+3. Click on 'Table' at the bottom of the page to see the observation table and click on 'Add to Table' button to fill the observation table. 
 
-7. Determine the actual pressure by making use of the weights that are known along with the cross-sectional area, and then evaluate this pressure in relation to the pressure that is indicated by the pressure gauge.
+4. Similarly, drag 1-10 kg masses from the Mass Block one by one and drop it to blue box on piston. The total mass chosen, will be shown in 'Mass (kg)' input box. The piston will move downwards in the chamber due to pressure. Repeat steps 2-3 each time after a mass is chosen. After taking three to four successive observations click on 'Plot' button. The 'Percentage Error (&prcent;) vs. Gauge Reading (KPa)' plot will be shown. Hover the cursor on the plot, one camera icon will be visible in the top right corner above the plot section. Click on that camera icon to download the plot.
 
-8. During the unloading process, remove the mass block that was just most recently added and make a note of the reading on the pressure gauge.
+5. Click on 'Clear' button.
 
-9. Repeat the step as many times as necessary until all of the mass blocks have been eliminated completely.
+					
+<b style = "color:blue">Unloading</b>
+
+1. After loading part is completed, drag the uppermost mass from the blue box on piston and drop it to Mass Block . The total mass left, will be shown in 'Mass (kg)' input box. The piston will move upwards from the chamber due to decrease in pressure.
+
+2. Click on the wheel to rotate it anti-clockwise and to decrease pressure in the filled oil inside. The  pressure gauge will show the applied pressure through wheel. When the pressure applied through the wheel will be equal to the pressure caused by the masses, left in the blue box, the wheel will stop rotating and piston will tend to move to its previous position (i.e upwards).
+
+3. Click on 'Table' at the bottom of the page to see the observation table and click on 'Add to Table' button to fill the observation table.
+
+4. Similarly, drag other masses from blue box to the Mass Block one by one. The total mass chosen, will be shown in 'Mass (kg)' input box. The piston will move upwards from the chamber due to decrease in pressure again. Repeat steps 2-3 each time after a mass is kept back to the Mass Block. After taking three to four successive observations for unloading, click on 'Plot' button. The 'Percentage Error (&prcent;) vs. Gauge Reading (KPa)' plot will be shown. Hover the cursor on the plot, one camera icon will be visible in the top right corner above the plot section. Click on that camera icon to download the plot.
+
+5. Click on 'Clear' button.
 
   
