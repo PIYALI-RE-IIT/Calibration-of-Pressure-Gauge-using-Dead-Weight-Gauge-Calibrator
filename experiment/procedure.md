@@ -24,7 +24,7 @@ To calibrate the dead weight gauge, the barrel of the calibrator is filled with 
 
 4. Similarly, drag 1-10 kg masses from the Mass Block one by one and drop it to blue box on piston. The total mass chosen, will be shown in 'Mass (kg)' input box. The piston will move downwards in the chamber due to pressure. Repeat steps 2-3 each time after a mass is chosen. After taking three to four successive observations click on 'Plot' button. The 'Percentage Error (&prcent;) vs. Gauge Reading (KPa)' plot will be shown. Hover the cursor on the plot, one camera icon will be visible in the top right corner above the plot section. Click on that camera icon to download the plot.
 
-5. Click on 'Clear' button.
+5. Click on 'Clear' button to erase the observation data and plot. Click on 'Table' button to hide the observation table. 
 
 					
 <b style = "color:blue">Unloading</b>
@@ -37,6 +37,6 @@ To calibrate the dead weight gauge, the barrel of the calibrator is filled with 
 
 4. Similarly, drag other masses from blue box to the Mass Block one by one. The total mass chosen, will be shown in 'Mass (kg)' input box. The piston will move upwards from the chamber due to decrease in pressure again. Repeat steps 2-3 each time after a mass is kept back to the Mass Block. After taking three to four successive observations for unloading, click on 'Plot' button. The 'Percentage Error (&prcent;) vs. Gauge Reading (KPa)' plot will be shown. Hover the cursor on the plot, one camera icon will be visible in the top right corner above the plot section. Click on that camera icon to download the plot.
 
-5. Click on 'Clear' button.
+5. Click on 'Clear' button to erase the observation data and plot. Click on 'Table' button to hide the observation table. 
 
   
